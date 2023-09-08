@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # taking the input
+# display date, time,os info and load average
 
 echo "Enter 1 to view date"
 echo "Enter 2 to view time" 
