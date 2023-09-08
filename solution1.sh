@@ -1,4 +1,5 @@
 #!/bin/bash
+# checks whether it's a file or directory
 
 read  -p " Enter the name of the file or directory: " name
 
